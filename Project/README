@@ -1,0 +1,8 @@
+This little game is played by pressing the button S1 when the moving block is in a color space, after a while the game
+will get faster and new color spaces will appear but if you miss the color space or after some time pases the scor will decrease.
+Button S4 can be use to cheat, which adds points whith out the need to play, but just dont go pressing it too fast
+Button S3 will lower the score
+
+The way the game works is that it keep track of the position of the moving block and times the press of the button S1 with the possition
+if some condition is met then the score increases
+
